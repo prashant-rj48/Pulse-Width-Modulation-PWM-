@@ -68,22 +68,6 @@ This directly controls:- Pulse width, Duty cycle, Average output power
 
 # PCB Design
 
-## Components 
-IC 555 timer
-
-Timing capacitor
-
-Resistors
-
-Potentiometer
-
-NPN transistor
-
-Output load stage
-
-Power supply section
-
-
 
 ## Schematic 
 <img width="931" height="652" alt="image" src="https://github.com/user-attachments/assets/a978efbf-2856-4f7e-852e-6b83bc183cfb" />
