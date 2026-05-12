@@ -95,7 +95,7 @@ Power supply section
 ## 3-D View
 <img width="392" height="382" alt="image" src="https://github.com/user-attachments/assets/660efed5-343a-4c27-8d67-9b62c1cb0bdd" />
 
-<img width="621" height="482" alt="image" src="https://github.com/user-attachments/assets/f3202721-ea01-4e73-8731-ff843dec27da" />
+
 
 
 
