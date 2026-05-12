@@ -40,6 +40,30 @@ The load receives varying average power depending on duty cycle.
 
 <img width="650" height="446" alt="image" src="https://github.com/user-attachments/assets/4355207e-4f17-4a05-a17a-5ae331aa54c0" />
 
+## Role of Potentiometer
+The potentiometer changes the charging and discharging timing of the capacitor connected to the 555 timer.
+
+This directly controls:- Pulse width, Duty cycle, Average output power
+
+***
+
+## Working Principle
+
+Power Supply
+      │
+      ▼
+ 555 Timer IC ───► PWM Signal Generation
+      │
+      ▼
+ Potentiometer ───► Duty Cycle Control
+      │
+      ▼
+  Transistor Switching Stage
+      │
+      ▼
+ Output Load (LED Demonstration)
+
+
 
 
 
