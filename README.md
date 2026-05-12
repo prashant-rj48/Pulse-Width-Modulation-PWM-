@@ -35,7 +35,7 @@ The load receives varying average power depending on duty cycle.
 ## Duty Cycle
 <img width="400" height="92" alt="image" src="https://github.com/user-attachments/assets/fae4869e-de31-471b-9319-af4b6ff3a6ff" />
 
-.
+_
 <img width="650" height="446" alt="image" src="https://github.com/user-attachments/assets/4355207e-4f17-4a05-a17a-5ae331aa54c0" />
 
 
