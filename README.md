@@ -32,6 +32,7 @@ Lower ON time → lower average output power
 
 The load receives varying average power depending on duty cycle.
 
+##
 ## Duty Cycle
 
 <img width="400" height="92" alt="image" src="https://github.com/user-attachments/assets/fae4869e-de31-471b-9319-af4b6ff3a6ff" />
