@@ -49,19 +49,19 @@ This directly controls:- Pulse width, Duty cycle, Average output power
 
 ## Working Principle
 
-Power Supply
-      │
-      ▼
- 555 Timer IC ───► PWM Signal Generation
-      │
-      ▼
- Potentiometer ───► Duty Cycle Control
-      │
-      ▼
-  Transistor Switching Stage
-      │
-      ▼
- Output Load (LED Demonstration)
+    Power Supply
+           │
+           ▼
+    555 Timer IC ───► PWM Signal Generation
+           │
+           ▼
+    Potentiometer ───► Duty Cycle Control
+           │
+           ▼
+     Transistor Switching Stage
+           │
+           ▼
+      Output Load (LED Demonstration)
 
 
 
