@@ -24,7 +24,8 @@ Real-time PWM output visualization using LED load.
 ***
 
 # PWM Concept
-## The IC 555 generates high-frequency ON/OFF pulses by charging and discharging a capacitor through diodes and a potentiometer.
+## IC 555
+The IC 555 generates high-frequency ON/OFF pulses by charging and discharging a capacitor through diodes and a potentiometer.
 
 Higher ON time → higher average output power
 Lower ON time → lower average output power
