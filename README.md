@@ -96,6 +96,28 @@ Power supply section
 <img width="392" height="382" alt="image" src="https://github.com/user-attachments/assets/660efed5-343a-4c27-8d67-9b62c1cb0bdd" />
 
 
+***
+
+# Applications
+Electric vehicle speed controllers
+
+DC motor control systems
+
+Industrial PWM drives
+
+Robotics power control
+
+Fan speed controllers
+
+Smart lighting systems
+
+Embedded electronics prototyping
+
+
+<img width="497" height="725" alt="image" src="https://github.com/user-attachments/assets/fee9c1ee-1c10-4b71-86b7-f8aecba760bd" />
+
+<img width="685" height="255" alt="image" src="https://github.com/user-attachments/assets/4f307d7b-678c-49cf-98c1-b3cd746e98aa" />
+
 
 
 
